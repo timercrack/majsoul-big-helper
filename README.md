@@ -6,6 +6,8 @@
 https://www.youtube.com/watch?v=0Qa7nNkU8n8
 
 ![周榜第一](model7.png)
+![周榜第一](雀魂大助手4周榜.png)
+![恐怖战绩](雀魂大助手4.png)
 ![启动截图](大助手0雀杰1.png)
 ![启动截图](大助手启动截图.png)
 
