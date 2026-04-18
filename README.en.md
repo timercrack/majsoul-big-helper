@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<h1 align="center">Majsoul Big Helper</h1>
+<h1 align="center">Riichi Mahjong Big Helper</h1>
 
 <p align="center">
-  A Riichi Mahjong training system with structured lessons, AI review, daily drills, and match assistance.<br/>
+  Riichi Mahjong Big Helper is a riichi mahjong training system with structured lessons, AI review, daily drills, and match assistance.<br/>
   Available on both PC and Android. Visit the official help center for the latest setup guide.
 </p>
 

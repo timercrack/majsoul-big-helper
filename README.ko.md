@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<h1 align="center">Majsoul Big Helper</h1>
+<h1 align="center">리치마작 빅헬퍼 · Riichi Mahjong Big Helper</h1>
 
 <p align="center">
-  리치마작 학습 시스템으로, 체계 강의, AI 복기, 일일 훈련, 대국 보조 기능을 제공합니다.<br/>
+  리치마작 빅헬퍼는 체계 강의, AI 복기, 일일 훈련, 대국 보조 기능을 제공하는 리치마작 학습 시스템입니다.<br/>
   PC와 Android를 모두 지원하며, 최신 설치 안내는 공식 도움말 센터를 확인해 주세요.
 </p>
 

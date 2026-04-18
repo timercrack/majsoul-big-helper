@@ -5,10 +5,10 @@
 	</a>
 </p>
 
-<h1 align="center">雀魂大助手 · Majsoul Big Helper</h1>
+<h1 align="center">日麻大助手 · Riichi Mahjong Big Helper</h1>
 
 <p align="center">
-	立直麻将教学系统，提供系统课程、AI 复盘、每日训练与对局辅助。<br/>
+	日麻大助手是一套立直麻将教学系统，提供系统课程、AI 复盘、每日训练与对局辅助。<br/>
 	同时支持 PC 与 Android，最新安装说明请查看官网帮助中心。
 </p>
 

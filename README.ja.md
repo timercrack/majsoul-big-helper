@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<h1 align="center">雀魂大助手 · Majsoul Big Helper</h1>
+<h1 align="center">リーチ麻雀大助手 · Riichi Mahjong Big Helper</h1>
 
 <p align="center">
-  リーチ麻雀学習システムとして、体系講座、AI 復盤、毎日トレーニング、対局補助を提供します。<br/>
+  リーチ麻雀大助手は、体系講座、AI 復盤、毎日トレーニング、対局補助を提供する立直麻雀学習システムです。<br/>
   PC と Android の両方に対応し、最新の導入手順は公式ヘルプセンターで確認できます。
 </p>
 
