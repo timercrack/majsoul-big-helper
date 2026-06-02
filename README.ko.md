@@ -9,7 +9,7 @@
 
 <p align="center">
   리치마작 빅헬퍼는 체계 강의, AI 복기, 일일 훈련, 대국 보조 기능을 제공하는 리치마작 학습 시스템입니다.<br/>
-  PC와 Android를 모두 지원하며, 최신 설치 안내는 공식 도움말 센터를 확인해 주세요.
+  PC, Android, iOS를 모두 지원하며, 최신 설치 안내는 공식 도움말 센터를 확인해 주세요.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ## 한국어
 
 - 웹사이트: <a href="https://bighelper.top" target="_blank">bighelper.top</a>
-- 이제 PC와 Android를 모두 지원하며, 체계 강의, AI 복기, 일일 훈련, 대국 보조 기능을 제공합니다.
+- 이제 PC, Android, iOS를 모두 지원하며, 체계 강의, AI 복기, 일일 훈련, 대국 보조 기능을 제공합니다.
 - 지원 모드: 4인 마작, 3인 마작, 수라 대전.
 - 지원 플랫폼: Majsoul (CN/JP/Global), RiichiCity, Tenhou, Palm Mahjong, QueJi Mahjong, Amatsuki Mahjong.
 
@@ -39,7 +39,7 @@
 
 - 체계 강의와 매일 훈련으로 기본기를 탄탄하게 다질 수 있습니다.
 - AI 복기가 실수를 즉시 짚어 주고 더 나은 선택지를 제시합니다.
-- PC와 Android 모두에서 사용할 수 있으며, 최신 설치 가이드와 스크린샷은 공식 웹사이트 기준으로 유지됩니다.
+- PC, Android, iOS 모두에서 사용할 수 있으며, 최신 설치 가이드와 스크린샷은 공식 웹사이트 기준으로 유지됩니다.
 - 성장 기록, 커뮤니티, 원격 지원으로 꾸준한 실력 향상을 도와드립니다.
 
 ---

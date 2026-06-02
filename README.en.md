@@ -9,7 +9,7 @@
 
 <p align="center">
   Riichi Mahjong Big Helper is a riichi mahjong training system with structured lessons, AI review, daily drills, and match assistance.<br/>
-  Available on both PC and Android. Visit the official help center for the latest setup guide.
+  Available on PC, Android, and iOS. Visit the official help center for the latest setup guide.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ## English
 
 - Website: <a href="https://bighelper.top" target="_blank">bighelper.top</a>
-- Now supports both PC and Android, with lessons, AI review, daily drills, and match assistance.
+- Now supports PC, Android, and iOS, with lessons, AI review, daily drills, and match assistance.
 - Modes: 4-player, 3-player, Shura battle.
 - Supported platforms: Majsoul (CN/JP/EN), Riichicity, Tenhou, Zhangxin Mahjong, Queji, Amatsuki Mahjong.
 
@@ -39,7 +39,7 @@
 
 - Structured lessons and daily drills help build solid fundamentals.
 - AI review points out mistakes right away and suggests better lines.
-- Available on both PC and Android; the official website keeps the latest setup guide and screenshots.
+- Available on PC, Android, and iOS; the official website keeps the latest setup guide and screenshots.
 - Progress tracking, community support, and remote assistance help you keep improving.
 
 ---
